@@ -118,11 +118,11 @@ public class MensaTest {
 
   /**
    * 
-   * Test for the Createdishratingfornon-existingdish_ID87996 method.
+   * Test for the Createdishratingfornonexistingdish_ID87996 method.
    * 
    */
   @Test
-  public void testCreatedishratingfornon-existingdish_ID87996() {
+  public void testCreatedishratingfornonexistingdish_ID87996() {
     MiniClientCoverage c = new MiniClientCoverage(mainPath);
     c.setConnectorEndpoint(connector.getHttpEndpoint());
     
